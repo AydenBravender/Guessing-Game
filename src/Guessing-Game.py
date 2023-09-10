@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 18 18:07:19 2023
-
-@author: Bravender
-"""
-
-
 import random
 random_number = random.randint(1, 100)
 round_number = 1
